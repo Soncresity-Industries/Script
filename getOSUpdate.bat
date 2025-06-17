@@ -1,7 +1,7 @@
 @echo off
 
 REM |------------------------------------------------------------------------------|
-REM | This is a PowerShell script to get the actual update script for SoncrecityOS |
+REM | This is a PowerShell script to get the actual update script for SoncresityOS |
 REM | It is included in the System by default and (hopefully) won't ever change    |
 REM |------------------------------------------------------------------------------|
 
