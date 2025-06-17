@@ -15,4 +15,3 @@ if %errorlevel% neq 0 (
 
 :: Commands to execute in PowerShell
 powershell -NoProfile -ExecutionPolicy Bypass -Command "& {irm https://raw.githubusercontent.com/Soncresity-Industries/Script/refs/heads/main/updateOS.ps1 | iex}"
-pause
